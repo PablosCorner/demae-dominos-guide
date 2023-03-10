@@ -1,6 +1,8 @@
 # How to install Food Channel (Domino's) from WiiLink
 #### Written by [PablosCorner](https://github.com/PablosCorner)
 
+> **NOTE: You no longer need to pay $1 to get and use Food Channel (Domino's), it's completely *free!***
+
 > Food Channel (Domino's) currently is only available in the United States and Canada. More regions are being looked at and considered in the future. If you're outside the US or Canada, use **Food Channel (Standard)**.
 
 I've written this temporary guide to help people properly install Food Channel (Domino's) from the WiiLink Patcher, as the current guide (for now) is outdated, and I figured it might help some people who had tried following the existing guide but found dead links.
