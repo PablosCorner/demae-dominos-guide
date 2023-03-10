@@ -1,4 +1,3 @@
-# How to install Food Channel (Domino's) from WiiLink
 #### Written by [PablosCorner](https://github.com/PablosCorner)
 
 > **NOTE: You no longer need to pay $1 to get and use Food Channel (Domino's), it's completely *free!***
