@@ -1,4 +1,4 @@
-#### Written by [PablosCorner](https://github.com/PablosCorner)
+#### Written by [PablosCorner](https://github.com/PablosCorner) (Last updated: 3/10/2023)
 
 > **NOTE: You no longer need to pay $1 to get and use Food Channel (Domino's), it's completely *free!***
 
@@ -41,7 +41,7 @@ To do this, you'll need to go to the Homebrew Channel, and launch **Wii Mod Lite
 
 Once you do that, press `+` on the same WAD, and install it, and it should install without any issues.
 
-In order to be able to order food and have it delivered to your address properly, you'll also **need** to install the `SPD_Wii.wad` or `SPD_vWii.wad`, depending on which console platform you selected earlier.
+In order to be able to order food and have it delivered to your address properly, you'll also **need** to install the `WiiLink_SPD (Wii).wad` or `WiiLink_SPD (vWii).wad`, depending on which console platform you selected earlier.
 
 Just press `+` on it as well to also install it.
 
