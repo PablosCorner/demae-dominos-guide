@@ -60,13 +60,11 @@ You will now install the Food Delivery Channel and Set Personal Data channels.
 
 > If you happen to get `Error -1022` when installing `Food Channel (Domino's) (English).wad`, uninstall the channel by selecting the WAD with `-` and pressing `A`. Then, re-install the WAD.
 
-##### Section V - Setting up your Address Information
+##### Section V - Setting up Address Information
 
 >WiiLink never stores your personal data. For more information on what is used, read our [Privacy Policy](https://theoldnet.com/get?url=https%3A%2F%2Fdemae.wiilink24.com%2Fprivacypolicy&year=2022&scripts=false&decode=false). (Currently archived, as new page is being worked on)
 
->You are responsible for entering your correct address information. Failure to do so may result in orders not succeeding.
-
-In this section you will be setting your address information. This is required for proper usage of Food Delivery Channel (Deliveroo).
+> For this particular version of Food Delivery Channel, you don't have to have accurate address information, as that is needed to be set up on the Deliveroo app.
 
 1. Launch the Food Delivery Channel from the Wii Menu.
 2. If you have not previously set your address information, a prompt telling you to set it will appear. Press the `Address Info` button. Otherwise, click the `Change Address Information` button in the main menu.
