@@ -53,11 +53,10 @@ I've written this temporary guide to help people properly install Food Channel (
 2. Create an account and add your address and payment information.
 3. Give your address a label named `demae` (all lowercase).<br><br>
 ![Deliveroo Address Label](https://i.imgur.com/Imn8bpO.png)
-4. Download the Deliveroo Helper to link your account with WiiLink, so you can order food from Deliveroo directly from Food Delivery Channel. You can download the helper from [here](https://github.com/WiiLink24/DeliverooHelper/releases).
-5. Launch the Deliveroo Helper and follow the instructions on the screen.<br><br>
+4. Launch the Deliveroo Helper and follow the instructions on the screen.<br><br>
 ![Deliveroo Helper](https://i.imgur.com/E9TYuwy.png)
-6. Add your console ID, from earlier, when prompted, as this will link your console with your Deliveroo account.
-7. When prompted, you'll also be asked to enter your Discord ID, which you can find by going to `Settings => Advanced => Developer Mode` and enabling it. Then, right click your name and click `Copy ID`.
+5. Add your console ID, from earlier, when prompted, as this will link your console with your Deliveroo account.
+6. When prompted, you'll also be asked to enter your Discord ID, which you can find by going to `Settings => Advanced => Developer Mode` and enabling it. Then, right click your name and click `Copy ID`.
 
 
 ##### Section IV - Installing WADs
