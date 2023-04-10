@@ -95,7 +95,7 @@ For this particular version of Food Delivery Channel, you don't have to have acc
 1. Launch the Food Delivery Channel (aka. Food Channel) from the Wii Menu
 2. Follow the on-screen instructions, then click `Order` in the main menu.<br><br>
 ![Main Menu](https://wii.guide/images/Demae-Dominos/success.png)<br><br>
-3. You will now be prompted to select your region. Be sure to select your residing country correctly. Failure to do so will result in restaurants failing to load. You will then be prompted to select your region, then city. If your city is not on the list, you can select any one as it does not matter.
+3. You will now be prompted to select your region. The only region listed is `Deliveroo`, so select it.
 4. Click the button of the category of food you'd like. This will load all the restaurants in your area for that category. The first restaurant in the list is the one closest to you.
 5. Click `See Menu` to list the different menu categories. Click the category you would like, then select a food item. In the item screen, you can add toppings and adjust quantity.
 6. After adding a food item, you will be brought to the basket. To add a food item, scroll to the bottom and select `Add Order`. To proceed to checkout, click `Next`.
