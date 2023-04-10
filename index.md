@@ -1,4 +1,6 @@
-#### Written by [PablosCorner](https://github.com/PablosCorner) (Last updated: 3/10/2023)
+#### Written by [PablosCorner](https://github.com/PablosCorner) (Last updated: 4/10/2023)
+
+> Are you in the **EU** and Looking for how to order with **Deliveroo** with Food Channel? Check out this guide [**here**](deliveroo).
 
 > **NOTE: You no longer need to pay $1 to get and use Food Channel (Domino's), it's completely *free!***
 
