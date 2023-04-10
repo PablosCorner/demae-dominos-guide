@@ -76,11 +76,11 @@ You will now install the Food Delivery Channel and Set Personal Data channels.
 
 >WiiLink never stores your personal data. For more information on what is used, read our [Privacy Policy](https://theoldnet.com/get?url=https%3A%2F%2Fdemae.wiilink24.com%2Fprivacypolicy&year=2022&scripts=false&decode=false). (Currently archived, as new page is being worked on)
 
-> For this particular version of Food Delivery Channel, you don't have to have accurate address information, as that is needed to be set up on the Deliveroo app.
+For this particular version of Food Delivery Channel, you don't have to have accurate address information, as that is needed to be set up on the Deliveroo app. However, you'll still need to go to the menu first before you can use Food Delivery Channel.
 
 1. Launch the Food Delivery Channel from the Wii Menu.
 2. If you have not previously set your address information, a prompt telling you to set it will appear. Press the `Address Info` button. Otherwise, click the `Change Address Information` button in the main menu.
-3. Now you are in the Address Information menu. Press the arrows to traverse screens. Here you will enter your data. When you are finished, click the `Done` button and then `Demae`.<br><br>
+3. Now you are in the Address Information menu. Press the arrows to traverse screens. Here you can enter your data, if you wish. When you are finished, click the `Done` button and then `Demae`.<br><br>
 ![SPD Page 1](https://wii.guide/images/Demae-Dominos/spd-1.png)<br><br>
 ![SPD Page 2](https://wii.guide//images/Demae-Dominos/spd-2.png)
 
