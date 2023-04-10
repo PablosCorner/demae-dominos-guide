@@ -1,12 +1,12 @@
 #### Written by [PablosCorner](https://github.com/PablosCorner) (Last updated: 4/10/2023)
 
-> Food Channel (Deliveroo) currently is only available in **select** EU countries where Deliveroo operates in. More services and regions are being looked at and considered in the future. If you're outside those select EU, use **Food Channel (Standard)** or **Food Channel (Domino's)** instead.
+> Food Channel (Deliveroo) currently is only available in **select** EU countries where Deliveroo operates in. More services and regions are being looked at and considered in the future. If you're outside those select EU countries, use **Food Channel (Standard)** or **Food Channel (Domino's)** instead.
 
 > As Food Channel (Deliveroo) just released, this guide is still a work in progress and will most likely be updated/changed a lot. If you have any questions, feel free to ask in the [WiiLink Discord](https://discord.gg/WiiLink).
 
 I've written this temporary guide to help people properly install Food Channel (Deliveroo) from the WiiLink Patcher, as one doesn't exist on **wii.guide** yet.
 
-#### Supported Countries
+#### Supported EU Countries
 
 * United Kingdom
 * France
