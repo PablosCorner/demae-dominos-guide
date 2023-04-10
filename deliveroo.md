@@ -43,8 +43,8 @@ I've written this temporary guide to help people properly install Food Channel (
 
 ##### Section II - Registering your Console ID
 
-1. After completing the setup process, turn on your Wii and launch the Homebrew Channel.
-2. Use the `Get Console ID` Homebrew app, that was given by the patcher, to retrieve your system's console ID.
+1. After completing the setup process, plug your SD card or USB drive into your Wii console.
+2. Launch the Homebrew Channel and open the `Get Console ID` Homebrew app that was given by the patcher, to retrieve your system's console ID.
 3. Save the console ID for the next section, as you will need it.
 
 ##### Section III - Setting up Deliveroo
@@ -63,12 +63,11 @@ I've written this temporary guide to help people properly install Food Channel (
 
 You will now install the Food Delivery Channel and Set Personal Data channels.
 
-1. Put your SD card or USB drive in your Wii.
-2. After registering your console ID, go to the Homebrew Channel and launch **Wii Mod Lite**.
-3. In the WAD Manager menu, locate `Food Channel (Domino's) (English).wad`.
-4. Also locate `WiiLink_SPD (Wii).wad` or `WiiLink_SPD (vWii).wad`, depending on your console platform.
-5. Select both WADs by pressing `+` on each one.
-6. Press `A` to install the selected WADs.
+1. After registering your console ID, go to the Homebrew Channel and launch **Wii Mod Lite**.
+2. In the WAD Manager menu, locate `Food Channel (Domino's) (English).wad`.
+3. Also locate `WiiLink_SPD (Wii).wad` or `WiiLink_SPD (vWii).wad`, depending on your console platform.
+4. Select both WADs by pressing `+` on each one.
+5. Press `A` to install the selected WADs.
 
 > If you happen to get `Error -1022` when installing `Food Channel (Domino's) (English).wad`, uninstall the channel by selecting the WAD with `-` and pressing `A`. Then, re-install the WAD.
 
