@@ -1,5 +1,5 @@
 remote_theme: lewismiddleton/cayman-dark
 plugins:
 - jekyll-remote-theme # add this line to the plugins list if you already have one
-title: Food Channel (Domino's) - WiiLink Install Guide
-description: A temporary guide on how to install Food Channel (Domino's)!
+title: Food Channel (Domino's and Deliveroo) - WiiLink Install Guide
+description: A temporary guide on how to install Food Channel (Domino's) and (Deliveroo)!
