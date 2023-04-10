@@ -85,6 +85,25 @@ You will now install the Food Delivery Channel and Set Personal Data channels.
 ![SPD Page 1](https://wii.guide/images/Demae-Dominos/spd-1.png)<br><br>
 ![SPD Page 2](https://wii.guide//images/Demae-Dominos/spd-2.png)
 
+##### Section VI - Placing an order
+
+> This section requires you to have your payment information set up on the Deliveroo app.
+
+> If you have used the standard version of the Food Delivery Channel before, go to the<br>`Wii Menu settings` -> `Data Management` -> `Save Data` -> `Wii`, then find the <br>Food Delivery Channel icon and click "Erase" to delete the existing save data.
+
+> If you have previously placed an order, skip to step 4.
+
+1. Launch the Food Delivery Channel (aka. Food Channel) from the Wii Menu
+2. Follow the on-screen instructions, then click `Order` in the main menu.<br><br>
+![Main Menu](https://wii.guide/images/Demae-Dominos/success.png)<br><br>
+3. You will now be prompted to select your region. Be sure to select your residing country correctly. Failure to do so will result in restaurants failing to load. You will then be prompted to select your region, then city. If your city is not on the list, you can select any one as it does not matter.
+4. Click the button of the category of food you'd like. This will load all the restaurants in your area for that category. The first restaurant in the list is the one closest to you.
+5. Click `See Menu` to list the different menu categories. Click the category you would like, then select a food item. In the item screen, you can add toppings and adjust quantity.
+6. After adding a food item, you will be brought to the basket. To add a food item, scroll to the bottom and select `Add Order`. To proceed to checkout, click `Next`.
+7. Review your order throughly before placing the order. When you are ready, click the big green `Order` button.<br><br>
+![Before Order](https://wii.guide/images/Demae-Dominos/order.png)<br><br>
+8. If no error appeared, your order was placed, however, before it can be placed successfully, you will recieve a direct message from the `Deliveroo Bot` to confirm your order. You'll need to enter the message provided to successfully place your order as a reply to the bot's message.<br><br>
+![Order Confirmation](https://i.imgur.com/7GUPSsU.png)<br><br>
 
 ***Happy ordering!***
 
