@@ -6,6 +6,19 @@
 
 I've written this temporary guide to help people properly install Food Channel (Deliveroo) from the WiiLink Patcher, as one doesn't exist on **wii.guide** yet.
 
+#### Supported Countries
+
+* United Kingdom
+* France
+* Belgium
+* Ireland
+* Italy
+* Singapore
+* Hong Kong
+* United Arab Emirates
+* Kuwait
+* Qatar
+
 #### What you need
 
 * An SD card or USB drive
