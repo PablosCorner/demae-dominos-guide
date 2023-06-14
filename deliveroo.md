@@ -1,4 +1,4 @@
-#### Written by [PablosCorner](https://github.com/PablosCorner) (Last updated: 4/10/2023)
+#### Written by [PablosCorner](https://github.com/PablosCorner) (Last updated: 6/14/2023)
 
 > Food Channel (Deliveroo) currently is only available in **select** countries where Deliveroo operates in. More services and regions are being looked at and considered in the future. If you're outside those select countries, use **Food Channel (Standard)** or **Food Channel (Domino's)** instead.
 
@@ -6,18 +6,41 @@
 
 I've written this temporary guide to help people properly install Food Channel (Deliveroo) from the WiiLink Patcher, as one doesn't exist on **wii.guide** yet.
 
-#### Supported Countries
+(Will be brought over soon!)
 
-* United Kingdom
-* France
-* Belgium
-* Ireland
-* Italy
-* Singapore
-* Hong Kong
-* United Arab Emirates
-* Kuwait
-* Qatar
+---
+
+## Supported Countries
+
+Food Channel (Deliveroo) supports all countries supported by **Deliveroo** itself.
+
+### Europe
+
+- United Kingdom
+- France
+- Belgium
+- Ireland
+- Italy
+- Asia
+
+### Singapore
+
+- Hong Kong
+- the U.A.E
+- Kuwait
+- Qatar
+
+### Formerly supported
+
+The following countries used to be supported, but not anymore.
+
+- Germany
+- Taiwan
+- Spain
+- the Netherlands
+- Australia
+
+---
 
 #### What you need
 
@@ -64,16 +87,16 @@ I've written this temporary guide to help people properly install Food Channel (
 You will now install the Food Delivery Channel and Set Personal Data channels.
 
 1. After registering your console ID, go to the Homebrew Channel and launch **Wii Mod Lite**.
-2. In the WAD Manager menu, locate `Food Channel (Domino's) (English).wad`.
-3. Also locate `WiiLink_SPD (Wii).wad` or `WiiLink_SPD (vWii).wad`, depending on your console platform.
-4. Select both WADs by pressing `+` on each one.
+2. In the WAD Manager menu, locate `Food Channel (Deliveroo) (English).wad`.
+3. **IMPORTANT:** Locate `WiiLink SPD (Wii).wad` or `WiiLink SPD (vWii).wad`, depending on your console platform.
+4. Select the WADs by pressing `+` on each one.
 5. Press `A` to install the selected WADs.
 
-> If you happen to get `Error -1022` when installing `Food Channel (Domino's) (English).wad`, uninstall the channel by selecting the WAD with `-` and pressing `A`. Then, re-install the WAD.
+> If you happen to get `Error -1022` when installing `Food Channel (Deliveroo) (English).wad`, uninstall the channel by selecting the WAD with `-` and pressing `A`. Then, re-install the WAD.
 
 ##### Section V - Setting up Address Information
 
->WiiLink never stores your personal data. For more information on what is used, read our [Privacy Policy](https://theoldnet.com/get?url=https%3A%2F%2Fdemae.wiilink24.com%2Fprivacypolicy&year=2022&scripts=false&decode=false). (Currently archived, as new page is being worked on)
+>WiiLink never stores your personal data. For more information on what is used, read our [Privacy Policy](https://wiilink24.com/privacy-policy). (Currently archived, as new page is being worked on)
 
 For this particular version of Food Delivery Channel, you don't have to have accurate address information, as that is needed to be set up on the Deliveroo app. However, you'll still need to go to the menu first before you can use Food Delivery Channel.
 
