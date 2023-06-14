@@ -128,4 +128,4 @@ For this particular version of Food Delivery Channel, you don't have to have acc
 
 ***Happy ordering!***
 
-> If you still encounter any issues using the channel, first look back at the guide and see if you missed anything, and if you still have any issues by then, please join our [Discord server](https://discord.gg/WiiLink) and create a support thread in the `demae-support` forum.
+> If you still encounter any issues using the channel, first look back at the guide and see if you missed anything, and if you still have any issues by then, please join our [Discord server](https://discord.gg/WiiLink) and create a support thread in the `real-food-support` forum.
