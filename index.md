@@ -1,6 +1,6 @@
 #### Written by [PablosCorner](https://github.com/PablosCorner) (Last updated: 6/14/2023)
 
-## An updated guide has been put up on [**wii.guide**](https://wii.guide/food-channel-dominos) for Domino's, please use that instead!
+## An updated guide has been put up on [**wii.guide**](https://wii.guide/wiilink-demae-dominos) for Domino's, please use that instead!
 
 > Are you in the **EU** and Looking for how to order with **Deliveroo** with Food Channel? Check out this guide [**here**](deliveroo).
 
@@ -8,7 +8,7 @@
 
 > Food Channel (Domino's) currently is only available in the United States and Canada. More regions are being looked at and considered in the future. If you're outside the US or Canada, use **Food Channel (Standard)**.
 
-## An updated guide has been put up on [**wii.guide**](https://wii.guide/food-channel-dominos) for Domino's, please use that instead!
+## An updated guide has been put up on [**wii.guide**](https://wii.guide/wiilink-demae-dominos) for Domino's, please use that instead!
 
 ## 1. Getting Started
 To begin, you'll need to download the latest version of the **WiiLink Patcher**, available [**here**](https://github.com/WiiLink24/WiiLink24-Patcher/tree/csharp-ver). Download the version in the **README** for your operating system.
